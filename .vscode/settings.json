@@ -1,6 +1,4 @@
 {
-    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
-
     // フォーマッタをprettierに指定
     "[typescript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
