@@ -1,7 +1,5 @@
 # https://prettier.io/docs/en/options.html
 
-jsxBracketSameLine: true
 singleQuote: true
 semi: true
 tabWidth: 2
-parser: 'typescript'

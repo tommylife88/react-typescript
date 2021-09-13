@@ -1,4 +1,5 @@
 {
+    "editor.defaultFormatter": null,
     // フォーマッタをprettierに指定
     "[typescript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -18,5 +19,4 @@
         // ファイル保存時にESLintでフォーマット
         "source.fixAll.eslint": true
     },
-    "prettier.packageManager": "yarn",
 }
